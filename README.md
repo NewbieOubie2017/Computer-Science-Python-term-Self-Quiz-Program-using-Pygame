@@ -1,2 +1,2 @@
 # Computer-Science-Python-term-Self-Quiz-Program-using-Pygame
-Press any letter a-z except q (quit) and a definition pops up.  Then press again and the CS term appears. Press again to start with a new randomly selected definition/term.
+Press any letter a-z except q (quit) and a definition pops up.  Then press again and the CS term appears. Press again to start with a new randomly selected definition/term.  I developed this for a Computer Science / Python class for 10 16 year olds but find it helps me to review concepts/terms.  Please feel free to add to it or submit suggestions for improvement. Thank you so very much!
